@@ -19,12 +19,12 @@ they flow through. Here's a simple example of a flow...
 1. GraphQL query returns a list of services and its health
 2. For each service, a NRQL query returns the health of the host on which the service is running
 
-In addition to being a query, a step could also...
+In addition to querying data from New Relic, a step can also...
 
-1. Make HTTP requests (like API calls)
-2. Parse the result using javascript
-3. Be a map function
-4. Be a reduce function
+- Make HTTP requests (like API calls)
+- Parse the result using javascript
+- Be a map function
+- Be a reduce function
 
 ## Scripts
 

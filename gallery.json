@@ -1,0 +1,13 @@
+{
+  "gallery": [
+    {
+      "id": "traffic-light-demo",
+      "name": "Traffic Light Demo",
+      "refresh": 30000,
+      "user": {
+        "name": "Amit Yathirajadasan",
+        "email": "ayathirajadasan@newrelic.com"
+      }
+    }
+  ]
+}

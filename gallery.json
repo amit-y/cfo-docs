@@ -19,6 +19,16 @@
         "email": "ayathirajadasan@newrelic.com"
       },
       "layout": "fluid"
+    },
+    {
+      "id": "neon-table-demo",
+      "name": "Neon Table Demo",
+      "refresh": 30,
+      "user": {
+        "name": "Amit Yathirajadasan",
+        "email": "ayathirajadasan@newrelic.com"
+      },
+      "layout": "fluid"
     }
   ]
 }

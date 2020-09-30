@@ -9,6 +9,16 @@
         "email": "ayathirajadasan@newrelic.com"
       },
       "layout": "fluid"
+    },
+    {
+      "id": "bar-graph-css-demo",
+      "name": "Bar Graph Using CSS Demo",
+      "refresh": 30,
+      "user": {
+        "name": "Amit Yathirajadasan",
+        "email": "ayathirajadasan@newrelic.com"
+      },
+      "layout": "fluid"
     }
   ]
 }

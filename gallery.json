@@ -49,6 +49,16 @@
         "email": "ayathirajadasan@newrelic.com"
       },
       "layout": "fluid"
+    },
+    {
+      "id": "plottable-demo",
+      "name": "Plottable Demo",
+      "refresh": 30,
+      "user": {
+        "name": "Amit Yathirajadasan",
+        "email": "ayathirajadasan@newrelic.com"
+      },
+      "layout": "fluid"
     }
   ]
 }

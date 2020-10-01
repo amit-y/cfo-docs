@@ -31,6 +31,16 @@
       "layout": "fluid"
     },
     {
+      "id": "github-api-demo",
+      "name": "GitHub API Demo",
+      "refresh": 0,
+      "user": {
+        "name": "Amit Yathirajadasan",
+        "email": "ayathirajadasan@newrelic.com"
+      },
+      "layout": "grid"
+    },
+    {
       "id": "tableau-embed-demo",
       "name": "Tableau Embed Demo",
       "refresh": 0,
